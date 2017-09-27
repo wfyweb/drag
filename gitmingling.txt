@@ -14,3 +14,7 @@ $ git status
 添加 文件到暂存区
 
 $ git add 加文件名
+
+添加远程版本库
+
+git commit -m “你的备注信息”
