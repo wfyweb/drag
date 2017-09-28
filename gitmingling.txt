@@ -22,3 +22,6 @@ git commit -m “你的备注信息”
 直接从工作区 到 暂存区 到 版本区
 
 git commit -a -m “注释”
+
+git diff   对比
+ 
